@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\refint\SaidaDeDados.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\ref\SaidaDeDados.dll
