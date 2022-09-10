@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Globalization;
 namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program
@@ -23,7 +23,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             int max = int.MaxValue;
             sbyte smin = sbyte.MinValue;
             long lmax = long.MaxValue;
-            
 
             Console.WriteLine(completo);
             Console.WriteLine(genero);
@@ -42,6 +41,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine(max);
             Console.WriteLine(smin);
             Console.WriteLine(lmax);
+
+            double saldo = 10.35784;
+
+            Console.WriteLine(saldo.ToString("F4", CultureInfo.InvariantCulture));
         }
     }
 }
