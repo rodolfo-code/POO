@@ -24,11 +24,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areax = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-            p = (y.A + y.B + y.C) / 2.0;
-            double areay = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            
+            double areax = x.Area();
+            double areay = y.Area();
 
             Console.WriteLine("Area de X = " + areax.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Area de Y = " + areay.ToString("F4", CultureInfo.InvariantCulture));

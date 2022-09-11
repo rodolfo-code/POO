@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\bin\Debug\net6.0\Inventory.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\bin\Debug\net6.0\Inventory.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\bin\Debug\net6.0\Inventory.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\bin\Debug\net6.0\Inventory.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\bin\Debug\net6.0\Inventory.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\Inventory.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\Inventory.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\Inventory.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\refint\Inventory.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\Inventory.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\Inventory.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Inventory\Inventory\obj\Debug\net6.0\ref\Inventory.dll
