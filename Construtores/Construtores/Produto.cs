@@ -1,24 +1,26 @@
 ﻿using System.Globalization;
 namespace Course
 {
-    class ProdutoContrutor
+    class Produto
     {
         public string Nome;
         public double Preco;
         public int Quantidade;
 
-        public Produto(string nome, double preco, int quantidade)
+        public Produto()
         {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
+            Quantidade = 10;
         }
 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco) : this()
         {
             Nome = nome;
             Preco = preco;
-            Quantidade = 5;
+        }
+
+        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
+        {
+            Quantidade = quantidade;
         }
 
         public double ValorTotalEmEstoque()
