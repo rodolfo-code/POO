@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\Desenvolvimento\\POO\\Encapsulamento-Properties\\Encapsulamento\\Encapsulamento.csproj",
-      "projectName": "Encapsulamento",
-      "projectPath": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\Desenvolvimento\\POO\\Encapsulamento-Properties\\Encapsulamento\\Encapsulamento.csproj",
+      "projectUniqueName": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\Desenvolvimento\\POO\\Exercicio3\\Exercicio3\\Exercicio3.csproj",
+      "projectName": "Exercicio3",
+      "projectPath": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\Desenvolvimento\\POO\\Exercicio3\\Exercicio3\\Exercicio3.csproj",
       "packagesPath": "C:\\Users\\RodolfoOliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\Desenvolvimento\\POO\\Encapsulamento-Properties\\Encapsulamento\\obj\\",
+      "outputPath": "C:\\Users\\RodolfoOliveira\\Desktop\\Repos\\Desenvolvimento\\POO\\Exercicio3\\Exercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
