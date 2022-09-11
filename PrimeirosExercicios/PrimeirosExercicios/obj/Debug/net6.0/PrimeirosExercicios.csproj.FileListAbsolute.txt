@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\refint\PrimeirosExercicios.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\PrimeirosExercicios\PrimeirosExercicios\obj\Debug\net6.0\ref\PrimeirosExercicios.dll
