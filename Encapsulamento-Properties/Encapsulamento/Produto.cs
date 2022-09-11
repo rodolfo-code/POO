@@ -25,14 +25,14 @@ namespace Encapsulamento
             }
         }
 
-        public double GetPreco()
+        public double Preco
         {
-            return this._preco;
+            get { return _preco; }
         }
 
-        public int GetQuantidade()
+        public int Quantidade
         {
-            return this._quantidade;
+            get { return _quantidade; }
         }
 
         public double ValorTotalEmEstoque()
