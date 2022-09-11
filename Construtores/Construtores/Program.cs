@@ -7,7 +7,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            
+
 
             Console.WriteLine("Entre os dados do produto:");
 
@@ -21,6 +21,15 @@ namespace Course
             //int quantidade = int.Parse(Console.ReadLine());
 
             Produto p = new Produto(nome, preco);
+
+            Produto p2 = new Produto
+            {
+                Nome = "TV",
+                Preco = 500.00,
+                Quantidade = 20
+            };
+
+            ;
 
             Console.WriteLine();
 
