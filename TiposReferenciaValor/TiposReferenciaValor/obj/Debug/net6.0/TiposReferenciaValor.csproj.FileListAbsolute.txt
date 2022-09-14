@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\refint\TiposReferenciaValor.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\ref\TiposReferenciaValor.dll
