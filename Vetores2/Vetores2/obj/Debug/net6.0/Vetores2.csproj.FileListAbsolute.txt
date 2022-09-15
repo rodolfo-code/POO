@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\bin\Debug\net6.0\Vetores2.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\refint\Vetores2.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\Vetores2.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\Desenvolvimento\POO\Vetores2\Vetores2\obj\Debug\net6.0\ref\Vetores2.dll
